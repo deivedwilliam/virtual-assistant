@@ -1,2 +1,1 @@
-"# virtual-assistant" 
-"# Virtual Assistant Lorrane" 
+# Virtual Assistant Lorrane 
